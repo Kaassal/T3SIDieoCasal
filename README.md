@@ -3,16 +3,12 @@
 ## Ejercicio 4
 **Partiendo de tu direcctorio de inicio, realiza cada uno de los siguientes apartados** 
 ## A) Haz que tu directorio de trabajo actual sea el directorio padre de tu directorio de inicio
-Tenemos de ir desde home/*usuario* hasta el directorio de inicio, para eso usamos: 
+Tenemos de ir desde home/*usuario* hasta home, para eso usamos: 
 
-    cd/NombreDirectorioInicio
+    cd ..
 
+ >cd .. sube a la carpeta padre de la cual nos encontramos
  
-> Si no te acuerdas de los normbres de tus directorios puedes usar
-> 
->     ls
-> 
-> Este comando enumera el contenido del directorio que desee, archivos y otros directorios anidados. 
 ## B) Visualiza la ruta de tu directorio de trabajo actual
 Para visualizar la ruta de trabajo actual usamos:
 
@@ -104,6 +100,8 @@ Para eliminar el fichero asignaturas usamos:
    Para subir al directorio de inicio usamos:
 
     cd
+    
+   >No importa donde estemos cd nos lleva al directorio home/*usuario*
 ## O) Con un solo comando elimina los directorios creados en el paso i)
 Para borrar varios directorios a la vez usamos:
 
