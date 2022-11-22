@@ -6,9 +6,7 @@
 Tenemos de ir desde home/*usuario* hasta el directorio de inicio, para eso usamos: 
 
     cd/NombreDirectorioInicio
-Despues escribe:
 
-    pwd
  
 > Si no te acuerdas de los normbres de tus directorios puedes usar
 > 
