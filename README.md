@@ -13,7 +13,7 @@ Tenemos de ir desde home/*usuario* hasta home, para eso usamos:
 Para visualizar la ruta de trabajo actual usamos:
 
     pwd
-<blockquote> pwd son las siglas de *path* *workig* *directory* que significa ruta de directorio en funcionamiento</blockquote>
+<blockquote> pwd son las siglas de *path workig directory* que significa ruta de directorio en funcionamiento</blockquote>
 
 Despues de escribir pwd la terminak nos devolverá esto :
 
